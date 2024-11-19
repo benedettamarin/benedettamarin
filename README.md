@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benedettamarin
-- 👀 I’m working as a research assistant at Padova University.
+- 👀 I’m working as a research fellow at Padova University.
 - 🧠 I am working on a project for the quantification of beta-amyloid plaques in brain PET images. Hence, the field I am interested in is 🥁🥁🥁🥁 Neuroscience!
 
 <!---
